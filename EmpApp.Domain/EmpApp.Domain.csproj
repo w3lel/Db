@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>CyberAge.Domain</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EmpApp.Authorization.Jwt\EmpApp.Authorization.Jwt.csproj" />
+    <ProjectReference Include="..\EmpApp.Database\EmpApp.Database.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kGOoGPgg286LhgCJOlMdYvXkjhS809hVeE8dFPzcfct+EjEWZnS1Vu4Oq04PNJo+28ljBIs2ESFOj4jT9hqxiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abrai\\RiderProjects\\Bd\\Why-not\\EmpApp.Domain.Tests\\EmpApp.Domain.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abrai\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\abrai\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
