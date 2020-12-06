@@ -5878,17 +5878,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\abrai\\.nuget\\packages\\": {}
+    "C:\\Users\\abrai\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abrai\\RiderProjects\\Bd\\Why-not\\EmpApp.Domain\\EmpApp.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Domain\\EmpApp.Domain.csproj",
       "projectName": "EmpApp.Domain",
-      "projectPath": "C:\\Users\\abrai\\RiderProjects\\Bd\\Why-not\\EmpApp.Domain\\EmpApp.Domain.csproj",
+      "projectPath": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Domain\\EmpApp.Domain.csproj",
       "packagesPath": "C:\\Users\\abrai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abrai\\RiderProjects\\Bd\\Why-not\\EmpApp.Domain\\obj\\",
+      "outputPath": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\abrai\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
@@ -5900,13 +5904,12 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\abrai\\RiderProjects\\Bd\\Why-not\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj": {
-              "projectPath": "C:\\Users\\abrai\\RiderProjects\\Bd\\Why-not\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj"
+            "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj": {
+              "projectPath": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj"
             },
-            "C:\\Users\\abrai\\RiderProjects\\Bd\\Why-not\\EmpApp.Database\\EmpApp.Database.csproj": {
-              "projectPath": "C:\\Users\\abrai\\RiderProjects\\Bd\\Why-not\\EmpApp.Database\\EmpApp.Database.csproj"
+            "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Database\\EmpApp.Database.csproj": {
+              "projectPath": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Database\\EmpApp.Database.csproj"
             }
           }
         }
@@ -5919,7 +5922,6 @@
     },
     "frameworks": {
       "netstandard2.0": {
-        "targetAlias": "netstandard2.0",
         "dependencies": {
           "AutoMapper": {
             "target": "Package",
@@ -5933,16 +5935,10 @@
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Users\\abrai\\.dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abrai\\RiderProjects\\Bd\\Why-not\\EmpApp.Domain.Tests\\EmpApp.Domain.Tests.csproj": {}
+    "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Domain.Tests\\EmpApp.Domain.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abrai\\RiderProjects\\Bd\\Why-not\\EmpApp.Domain.Tests\\EmpApp.Domain.Tests.csproj": {
+    "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Domain.Tests\\EmpApp.Domain.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abrai\\RiderProjects\\Bd\\Why-not\\EmpApp.Domain.Tests\\EmpApp.Domain.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Domain.Tests\\EmpApp.Domain.Tests.csproj",
         "projectName": "EmpApp.Domain.Tests",
-        "projectPath": "C:\\Users\\abrai\\RiderProjects\\Bd\\Why-not\\EmpApp.Domain.Tests\\EmpApp.Domain.Tests.csproj",
+        "projectPath": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Domain.Tests\\EmpApp.Domain.Tests.csproj",
         "packagesPath": "C:\\Users\\abrai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abrai\\RiderProjects\\Bd\\Why-not\\EmpApp.Domain.Tests\\obj\\",
+        "outputPath": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Domain.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abrai\\AppData\\Roaming\\NuGet\\NuGet.Config"

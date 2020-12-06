@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2VCdtSNIzKSYM7lU+liMl/t150RXlSHPN59fl5EPYGrbRHXHJirI99KzFcTD0+lsXVs1ssoD/uocIBL7OQbAgg==",
+  "dgSpecHash": "J71qa8gWItJZq/hBu0B0yr787Q/HYvk3n1ue5WYmAh2h/yg9o3GJTbiCvrbjOP+O26+4ZjSCOt3/8RRNXxBkJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abrai\\RiderProjects\\Bd\\Why-not\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj",
+  "projectFilePath": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abrai\\.nuget\\packages\\microsoft.aspnetcore.http\\1.1.0\\microsoft.aspnetcore.http.1.1.0.nupkg.sha512",
     "C:\\Users\\abrai\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\1.1.0\\microsoft.aspnetcore.http.abstractions.1.1.0.nupkg.sha512",

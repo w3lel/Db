@@ -40,5 +40,11 @@ namespace CyberAge.Entities
         /// Соль пароля
         /// </summary>
         public string PasswordSalt { get; set; }
+        
+        /// <summary>
+        /// Идентификатор сотрудника
+        /// </summary>
+        public Guid EmployeeId { get; set; }
+        
     }
 }

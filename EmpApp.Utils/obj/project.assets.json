@@ -430,17 +430,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\abrai\\.nuget\\packages\\": {}
+    "C:\\Users\\abrai\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abrai\\RiderProjects\\Bd\\Why-not\\EmpApp.Utils\\EmpApp.Utils.csproj",
+      "projectUniqueName": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj",
       "projectName": "EmpApp.Utils",
-      "projectPath": "C:\\Users\\abrai\\RiderProjects\\Bd\\Why-not\\EmpApp.Utils\\EmpApp.Utils.csproj",
+      "projectPath": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj",
       "packagesPath": "C:\\Users\\abrai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abrai\\RiderProjects\\Bd\\Why-not\\EmpApp.Utils\\obj\\",
+      "outputPath": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Utils\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\abrai\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
@@ -452,7 +456,6 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
           "projectReferences": {}
         }
       },
@@ -464,7 +467,6 @@
     },
     "frameworks": {
       "netstandard2.0": {
-        "targetAlias": "netstandard2.0",
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": {
             "target": "Package",
@@ -478,16 +480,10 @@
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Users\\abrai\\.dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }

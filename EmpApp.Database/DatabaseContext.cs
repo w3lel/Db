@@ -14,8 +14,33 @@ namespace CyberAge.Database
         public virtual DbSet<User> Users { get; set; }
 
         /// <summary>
-        /// Роли пользователей
+        /// Роли сотрудников
         /// </summary>
-        public virtual DbSet<Robot> UserRoles { get; set; }
+        public virtual DbSet<EmployeeRole> EmployeeRoles { get; set; }
+        
+        /// <summary>
+        /// Сотрудники
+        /// </summary>
+        public virtual DbSet<Employee> Employees { get; set; }
+        
+        /// <summary>
+        /// Компании
+        /// </summary>
+        public virtual DbSet<Company> Companies { get; set; }
+        
+        /// <summary>
+        /// Филиалы
+        /// </summary>
+        public virtual DbSet<SisterСompany> SisterCompanies { get; set; }
+        
+        /// <summary>
+        /// Комманды
+        /// </summary>
+        public virtual DbSet<Team> Teams { get; set; }
+        
+        /// <summary>
+        /// Задачи
+        /// </summary>
+        public virtual DbSet<Ticket> Tickets { get; set; }
     }
 }

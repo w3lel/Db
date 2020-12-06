@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OtpReBAdzvVkS1IwXgi+NPD5xhuAbaj3+W/5WTALO1ab4hetGuQqCnXQcgJfHW3RniH/FRZK4TTUNewVLb0ANQ==",
+  "dgSpecHash": "+6vCc9VgfVMyS08r4pVc+CaWXHz7Z8QefsLsPLYHQehWW7+U33rE9w9vePd83O+sM40jlqTCy3PCTPEIPMRNNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abrai\\RiderProjects\\Bd\\Why-not\\EmpApp.Domain\\EmpApp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Domain\\EmpApp.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abrai\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
     "C:\\Users\\abrai\\.nuget\\packages\\microsoft.aspnetcore.http\\1.1.0\\microsoft.aspnetcore.http.1.1.0.nupkg.sha512",
