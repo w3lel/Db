@@ -14,10 +14,4 @@
     <ProjectReference Include="..\EmpApp.Database\EmpApp.Database.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\Employees" />
-    <Folder Include="Services\Tasks" />
-    <Folder Include="Services\Teams" />
-  </ItemGroup>
-
 </Project>

@@ -12627,41 +12627,47 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\abrai\\.nuget\\packages\\": {},
+    "C:\\Users\\w3lel\\.nuget\\packages\\": {},
+    "F:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.API\\EmpApp.API.csproj",
+      "projectUniqueName": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.API\\EmpApp.API.csproj",
       "projectName": "EmpApp.API",
-      "projectPath": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.API\\EmpApp.API.csproj",
-      "packagesPath": "C:\\Users\\abrai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.API\\obj\\",
+      "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.API\\EmpApp.API.csproj",
+      "packagesPath": "C:\\Users\\w3lel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "F:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\abrai\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\w3lel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj": {
-              "projectPath": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj"
+            "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj": {
+              "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj"
             },
-            "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Database\\EmpApp.Database.csproj": {
-              "projectPath": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Database\\EmpApp.Database.csproj"
+            "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj": {
+              "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj"
             },
-            "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Domain\\EmpApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Domain\\EmpApp.Domain.csproj"
+            "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Domain\\EmpApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Domain\\EmpApp.Domain.csproj"
             }
           }
         }
@@ -12674,6 +12680,7 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
+        "targetAlias": "netcoreapp2.2",
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
@@ -12718,10 +12725,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

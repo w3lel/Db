@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "a+/7PnTacuQgwS9eNuceBs8jGRKqfDsv74I3fZDxmHOBmeCgX6PvxKn4yNz1pEvp2LGzaUhGlo5OaJxMO/EIyQ==",
+  "dgSpecHash": "X1oVUk50i3x1lkhXFJOK/XrQdI9+o225PhIyHbBrGTJGlRyd6g1ik6d2IIJmH4o6M59m2vWnCJ6VgxGJjv51eQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj",
+  "projectFilePath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\abrai\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\1.1.0\\microsoft.extensions.dependencyinjection.1.1.0.nupkg.sha512",
-    "C:\\Users\\abrai\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\1.1.0\\microsoft.extensions.dependencyinjection.abstractions.1.1.0.nupkg.sha512",
-    "C:\\Users\\abrai\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\abrai\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\abrai\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\abrai\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
-    "C:\\Users\\abrai\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+    "C:\\Users\\w3lel\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\1.1.0\\microsoft.extensions.dependencyinjection.1.1.0.nupkg.sha512",
+    "C:\\Users\\w3lel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\1.1.0\\microsoft.extensions.dependencyinjection.abstractions.1.1.0.nupkg.sha512",
+    "C:\\Users\\w3lel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\w3lel\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\w3lel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\w3lel\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\w3lel\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

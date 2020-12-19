@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "rHfFYkPwZivRR/X0eMUnFysAq105nOwFxgDBgc6whybxMooQnla6VYHjNd/jViLu5G5hQp9cQlplabmvayKYgQ==",
+  "dgSpecHash": "phnVbP3JP+Eoy5wzydCYMcp+NECSyfuWh5NvZvydeC0OPqxtmRon7V9yOvqNrYfXcMvRgQ6C9zW2hrAuyVfF5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Entities\\EmpApp.Entities.csproj",
+  "projectFilePath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Entities\\EmpApp.Entities.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\abrai\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\abrai\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\abrai\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512"
+    "C:\\Users\\w3lel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\w3lel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\w3lel\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -430,32 +430,38 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\abrai\\.nuget\\packages\\": {},
+    "C:\\Users\\w3lel\\.nuget\\packages\\": {},
+    "F:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj",
+      "projectUniqueName": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj",
       "projectName": "EmpApp.Utils",
-      "projectPath": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj",
-      "packagesPath": "C:\\Users\\abrai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abrai\\RiderProjects\\Db\\EmpApp.Utils\\obj\\",
+      "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj",
+      "packagesPath": "C:\\Users\\w3lel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Utils\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "F:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\abrai\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\w3lel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {}
         }
       },
@@ -467,6 +473,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection": {
             "target": "Package",
@@ -480,10 +487,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
