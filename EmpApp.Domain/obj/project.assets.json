@@ -5885,11 +5885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Domain\\EmpApp.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Domain\\EmpApp.Domain.csproj",
       "projectName": "EmpApp.Domain",
-      "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Domain\\EmpApp.Domain.csproj",
+      "projectPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Domain\\EmpApp.Domain.csproj",
       "packagesPath": "C:\\Users\\w3lel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Domain\\obj\\",
+      "outputPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5911,11 +5911,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj": {
-              "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj"
+            "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj": {
+              "projectPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj"
             },
-            "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj": {
-              "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj"
+            "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj": {
+              "projectPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj"
             }
           }
         }

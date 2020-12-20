@@ -39,16 +39,16 @@ namespace CyberAge.Domain.Services.Users
             var existingUser = await _context.Users.SingleOrDefaultAsync(x => x.Login == authorizationModel.Login);
             if (existingUser != null)
             {
-                if (_hashProvider.HashString(authorizationModel.Password,existingUser.PasswordSalt) == existingUser.PasswordHash)
-                {
+                //if (_hashProvider.HashString(authorizationModel.Password,existingUser.PasswordSalt) == existingUser.PasswordHash)
+                //{
                     var identity = new ClaimsIdentity(new GenericIdentity(authorizationModel.Login), new[] { new Claim("login", authorizationModel.Login), new Claim("email", existingUser.Email ?? string.Empty) });
                     var token = await _tokenAuthorizationService.GetToken(identity);
                     return token;
-                }
-                else
-                {
-                    throw new Exception("Неверный пароль");
-                }
+                //}
+                //else
+                //{
+                    //throw new Exception("Неверный пароль");
+                //}
             }
             else
             {
@@ -66,6 +66,7 @@ namespace CyberAge.Domain.Services.Users
             var salt = Convert.ToString(Guid.NewGuid());
             User user = new User
             {
+                UserGuid = Guid.NewGuid(),
                 Login = registrationModel.Login,
                 Email = registrationModel.Mail,
                 Name = registrationModel.Name,

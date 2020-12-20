@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace CyberAge.Entities
 {
-    public class Employee
+    public class Event
     {
         public Guid Id { get; set; }
         

@@ -4987,11 +4987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj",
+      "projectUniqueName": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj",
       "projectName": "EmpApp.Authorization.Jwt",
-      "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj",
+      "projectPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj",
       "packagesPath": "C:\\Users\\w3lel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Authorization.Jwt\\obj\\",
+      "outputPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Authorization.Jwt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\Microsoft\\Xamarin\\NuGet\\",

@@ -28,7 +28,7 @@ namespace CyberAge.API.Controllers
         /// Получение компании
         /// </summary>
         [HttpGet]
-        [Route("/{id}")]
+        [Route("/id")]
         public async Task<Company> GetCompany([FromQuery] Guid id)
         {
             return _companyService.GetCompany(id);

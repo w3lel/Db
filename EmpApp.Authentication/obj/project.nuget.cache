@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fGOmiKmRevnvptFpbT1J+JQlRJYOYUB/I+6WYgjY/SBel4Ao1fnwUn32p/OpXrWNu9VEl5gCsX1sR5evHuAX5Q==",
+  "dgSpecHash": "ctr/PYxMsWz403sXYNUmYPr3vSocoNm6yJXVKhTkYSCrIefBLWzyYVX72EdUrADh69sECQDG4dQcVQ42vHAT4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Authentication\\EmpApp.Authentication.csproj",
+  "projectFilePath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Authentication\\EmpApp.Authentication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\w3lel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\w3lel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

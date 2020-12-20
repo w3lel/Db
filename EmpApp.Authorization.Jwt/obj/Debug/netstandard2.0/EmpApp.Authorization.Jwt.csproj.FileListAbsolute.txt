@@ -1,0 +1,9 @@
+C:\Users\w3lel\Desktop\веб\Db-master\EmpApp.Authorization.Jwt\bin\Debug\netstandard2.0\EmpApp.Authorization.Jwt.deps.json
+C:\Users\w3lel\Desktop\веб\Db-master\EmpApp.Authorization.Jwt\bin\Debug\netstandard2.0\EmpApp.Authorization.Jwt.dll
+C:\Users\w3lel\Desktop\веб\Db-master\EmpApp.Authorization.Jwt\bin\Debug\netstandard2.0\EmpApp.Authorization.Jwt.pdb
+C:\Users\w3lel\Desktop\веб\Db-master\EmpApp.Authorization.Jwt\obj\Debug\netstandard2.0\EmpApp.Authorization.Jwt.csprojAssemblyReference.cache
+C:\Users\w3lel\Desktop\веб\Db-master\EmpApp.Authorization.Jwt\obj\Debug\netstandard2.0\EmpApp.Authorization.Jwt.AssemblyInfoInputs.cache
+C:\Users\w3lel\Desktop\веб\Db-master\EmpApp.Authorization.Jwt\obj\Debug\netstandard2.0\EmpApp.Authorization.Jwt.AssemblyInfo.cs
+C:\Users\w3lel\Desktop\веб\Db-master\EmpApp.Authorization.Jwt\obj\Debug\netstandard2.0\EmpApp.Authorization.Jwt.csproj.CoreCompileInputs.cache
+C:\Users\w3lel\Desktop\веб\Db-master\EmpApp.Authorization.Jwt\obj\Debug\netstandard2.0\EmpApp.Authorization.Jwt.dll
+C:\Users\w3lel\Desktop\веб\Db-master\EmpApp.Authorization.Jwt\obj\Debug\netstandard2.0\EmpApp.Authorization.Jwt.pdb

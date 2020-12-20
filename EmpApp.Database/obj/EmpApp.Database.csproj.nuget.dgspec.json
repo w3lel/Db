@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj": {}
+    "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj": {}
   },
   "projects": {
-    "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj": {
+    "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj",
+        "projectUniqueName": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj",
         "projectName": "EmpApp.Database",
-        "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj",
+        "projectPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj",
         "packagesPath": "C:\\Users\\w3lel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Database\\obj\\",
+        "outputPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Microsoft\\Xamarin\\NuGet\\",
@@ -33,11 +33,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Entities\\EmpApp.Entities.csproj": {
-                "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Entities\\EmpApp.Entities.csproj"
+              "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Entities\\EmpApp.Entities.csproj": {
+                "projectPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Entities\\EmpApp.Entities.csproj"
               },
-              "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj": {
-                "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj"
+              "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj": {
+                "projectPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Entities\\EmpApp.Entities.csproj": {
+    "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Entities\\EmpApp.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Entities\\EmpApp.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Entities\\EmpApp.Entities.csproj",
         "projectName": "EmpApp.Entities",
-        "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Entities\\EmpApp.Entities.csproj",
+        "projectPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Entities\\EmpApp.Entities.csproj",
         "packagesPath": "C:\\Users\\w3lel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Entities\\obj\\",
+        "outputPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Microsoft\\Xamarin\\NuGet\\",
@@ -149,14 +149,14 @@
         }
       }
     },
-    "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj": {
+    "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj",
+        "projectUniqueName": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj",
         "projectName": "EmpApp.Utils",
-        "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj",
+        "projectPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj",
         "packagesPath": "C:\\Users\\w3lel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Utils\\obj\\",
+        "outputPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Utils\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Microsoft\\Xamarin\\NuGet\\",

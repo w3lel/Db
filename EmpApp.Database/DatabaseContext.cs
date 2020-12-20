@@ -21,7 +21,7 @@ namespace CyberAge.Database
         /// <summary>
         /// Сотрудники
         /// </summary>
-        public virtual DbSet<Employee> Employees { get; set; }
+        public virtual DbSet<Event> Employees { get; set; }
         
         /// <summary>
         /// Компании

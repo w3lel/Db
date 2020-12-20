@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Authentication\\EmpApp.Authentication.csproj": {}
+    "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Authentication\\EmpApp.Authentication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Authentication\\EmpApp.Authentication.csproj": {
+    "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Authentication\\EmpApp.Authentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Authentication\\EmpApp.Authentication.csproj",
+        "projectUniqueName": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Authentication\\EmpApp.Authentication.csproj",
         "projectName": "EmpApp.Authentication",
-        "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Authentication\\EmpApp.Authentication.csproj",
+        "projectPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Authentication\\EmpApp.Authentication.csproj",
         "packagesPath": "C:\\Users\\w3lel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Authentication\\obj\\",
+        "outputPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Authentication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\Microsoft\\Xamarin\\NuGet\\",

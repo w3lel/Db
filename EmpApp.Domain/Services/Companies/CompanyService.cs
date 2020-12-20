@@ -18,12 +18,12 @@ namespace CyberAge.Domain.Services.Companies
         {
             return _dbContext.Companies.First(e => e.Id == id);
         }
-        
+
         public List<Company> GetCompanies()
         {
             return _dbContext.Companies.ToList();
         }
-        
+
         public void AddCompany(Company company)
         {
             var editableCompany = company;
@@ -31,14 +31,14 @@ namespace CyberAge.Domain.Services.Companies
             _dbContext.Add(editableCompany);
             _dbContext.SaveChanges();
         }
-        
+
         public void RemoveCompany(Guid id)
         {
             var company = GetCompany(id);
             _dbContext.Remove(company);
             _dbContext.SaveChanges();
         }
-        
+
         public void EditCompany(Company company)
         {
             var editableCompany = company;

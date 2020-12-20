@@ -14,12 +14,12 @@ namespace CyberAge.Domain.Services.Tasks
             _dbContext = dbContext;
         }
 
-        public Ticket GetTasks(Guid id)
+        public Ticket GetTicket(Guid id)
         {
             return _dbContext.Tickets.First(e => e.Id == id);
         }
 
-        public List<Ticket> GetTasks()
+        public List<Ticket> GetTickets()
         {
             return _dbContext.Tickets.ToList();
         }
@@ -34,12 +34,12 @@ namespace CyberAge.Domain.Services.Tasks
 
         public void RemoveTicket(Guid id)
         {
-            var tasks = GetTasks(id);
+            var tasks = GetTicket(id);
             _dbContext.Remove(tasks);
             _dbContext.SaveChanges();
         }
 
-        public void EditTasks(Ticket ticket)
+        public void EditTicket(Ticket ticket)
         {
             var editableTicket = ticket;
             editableTicket.Id = ticket.Id;

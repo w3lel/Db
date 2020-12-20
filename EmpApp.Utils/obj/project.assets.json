@@ -437,11 +437,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj",
+      "projectUniqueName": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj",
       "projectName": "EmpApp.Utils",
-      "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj",
+      "projectPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Utils\\EmpApp.Utils.csproj",
       "packagesPath": "C:\\Users\\w3lel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Utils\\obj\\",
+      "outputPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Utils\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\Microsoft\\Xamarin\\NuGet\\",

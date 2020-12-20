@@ -1,5 +1,7 @@
 ﻿
 using CyberAge.Domain.Services.Companies;
+using CyberAge.Domain.Services.Employees;
+using CyberAge.Domain.Services.Tasks;
 using CyberAge.Domain.Services.Users;
 using CyberAge.Domain.Services.Users.Abstractions;
 using Microsoft.Extensions.DependencyInjection;
@@ -19,6 +21,10 @@ namespace CyberAge.Domain
         public static IServiceCollection AddDomain(this IServiceCollection services)
         {
             //Сервисы
+            services.AddScoped<UsersService>();
+            services.AddScoped<EmployeeService>();
+            services.AddScoped<TeamService>();
+            services.AddScoped<TicketService>();
             services.AddScoped<CompanyService>();
 
             //Пользователи

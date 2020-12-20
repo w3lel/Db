@@ -1,0 +1,9 @@
+C:\Users\w3lel\Desktop\веб\Db-master\EmpApp.Utils\bin\Debug\netstandard2.0\EmpApp.Utils.deps.json
+C:\Users\w3lel\Desktop\веб\Db-master\EmpApp.Utils\bin\Debug\netstandard2.0\EmpApp.Utils.dll
+C:\Users\w3lel\Desktop\веб\Db-master\EmpApp.Utils\bin\Debug\netstandard2.0\EmpApp.Utils.pdb
+C:\Users\w3lel\Desktop\веб\Db-master\EmpApp.Utils\obj\Debug\netstandard2.0\EmpApp.Utils.csprojAssemblyReference.cache
+C:\Users\w3lel\Desktop\веб\Db-master\EmpApp.Utils\obj\Debug\netstandard2.0\EmpApp.Utils.AssemblyInfoInputs.cache
+C:\Users\w3lel\Desktop\веб\Db-master\EmpApp.Utils\obj\Debug\netstandard2.0\EmpApp.Utils.AssemblyInfo.cs
+C:\Users\w3lel\Desktop\веб\Db-master\EmpApp.Utils\obj\Debug\netstandard2.0\EmpApp.Utils.csproj.CoreCompileInputs.cache
+C:\Users\w3lel\Desktop\веб\Db-master\EmpApp.Utils\obj\Debug\netstandard2.0\EmpApp.Utils.dll
+C:\Users\w3lel\Desktop\веб\Db-master\EmpApp.Utils\obj\Debug\netstandard2.0\EmpApp.Utils.pdb

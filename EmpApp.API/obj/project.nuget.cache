@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cw+5JPTbu9TywIFpU9cOiWouzaEVHWDdh5xjBLIkLl8qcJa6lYDEgNf4UxWYAXaZEoX8mUu4maEIzGAzJAGjRQ==",
+  "dgSpecHash": "WKep2EbDYIZ0NvgNkILusbJktwKPMwdra3Vquu6oMwixiKkHl/c/vQ1Hcp8EAdrKepYnxnQXRS0xE1CePcHIWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.API\\EmpApp.API.csproj",
+  "projectFilePath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.API\\EmpApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\w3lel\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
     "C:\\Users\\w3lel\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.0.0\\automapper.extensions.microsoft.dependencyinjection.6.0.0.nupkg.sha512",

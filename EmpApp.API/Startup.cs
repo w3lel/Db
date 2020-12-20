@@ -47,7 +47,7 @@ namespace CyberAge.API
         /// <summary>
         /// Окружение
         /// </summary>
-        public IHostingEnvironment Environment { get; }
+        public IHostingEnvironment Environment { get;  }
 
         /// <summary>
         /// Конфигурация

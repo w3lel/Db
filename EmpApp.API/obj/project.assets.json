@@ -12634,11 +12634,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.API\\EmpApp.API.csproj",
+      "projectUniqueName": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.API\\EmpApp.API.csproj",
       "projectName": "EmpApp.API",
-      "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.API\\EmpApp.API.csproj",
+      "projectPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.API\\EmpApp.API.csproj",
       "packagesPath": "C:\\Users\\w3lel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.API\\obj\\",
+      "outputPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\Microsoft\\Xamarin\\NuGet\\",
@@ -12660,14 +12660,14 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj": {
-              "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj"
+            "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj": {
+              "projectPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Authorization.Jwt\\EmpApp.Authorization.Jwt.csproj"
             },
-            "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj": {
-              "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj"
+            "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj": {
+              "projectPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj"
             },
-            "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Domain\\EmpApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Domain\\EmpApp.Domain.csproj"
+            "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Domain\\EmpApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Domain\\EmpApp.Domain.csproj"
             }
           }
         }

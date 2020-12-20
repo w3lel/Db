@@ -14,17 +14,17 @@ namespace CyberAge.Domain.Services.Employees
             _dbContext = dbContext;
         }
 
-        public Employee GetEmployee(Guid id)
+        public Event GetEmployee(Guid id)
         {
             return _dbContext.Employees.First(e => e.Id == id);
         }
 
-        public List<Employee> GetEmployee()
+        public List<Event> GetEmployee()
         {
             return _dbContext.Employees.ToList();
         }
 
-        public void AddEmployee(Employee employee)
+        public void AddEmployee(Event employee)
         {
             var editableEmployee = employee;
             editableEmployee.Id = Guid.NewGuid();
@@ -39,7 +39,7 @@ namespace CyberAge.Domain.Services.Employees
             _dbContext.SaveChanges();
         }
 
-        public void EditEmployee(Employee employee)
+        public void EditEmployee(Event employee)
         {
             var editableEmployee = employee;
             editableEmployee.Id = employee.Id;

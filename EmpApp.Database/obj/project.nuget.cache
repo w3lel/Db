@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "batBvUZHipr9fo95Lg3bAVlvr+RlpSh1mJ8VrbrRkua9+tOLzfvXFMjjAoym4UAIrrbjfg3jq1wEnckeb29G4w==",
+  "dgSpecHash": "2FITV3qBv9WX30wPySJOZksE1c9THXZkkc+eac4xSq6XmV1c5/6QzqgHgC0TGyzcep8v6/pirJJGWqNd6jvMeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\w3lel\\Source\\Repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj",
+  "projectFilePath": "C:\\Users\\w3lel\\source\\repos\\Db\\EmpApp.Database\\EmpApp.Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\w3lel\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\w3lel\\.nuget\\packages\\microsoft.entityframeworkcore\\2.2.4\\microsoft.entityframeworkcore.2.2.4.nupkg.sha512",

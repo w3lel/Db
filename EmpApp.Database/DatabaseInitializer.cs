@@ -39,10 +39,10 @@ namespace CyberAge.Database
                 var adminSalt = new Random().GenerateSequence(16);
                 var admin = new User()
                 {
-                    Login = "cyber_admin",
-                    Name = "GI",
-                    Email = "abrailia3@gmail.com",
-                    PasswordHash = _hashProvider.HashString("3482757",adminSalt),
+                    Login = "Lemov",
+                    Name = "SD",
+                    Email = "sfa28134@eoopy.com",
+                    PasswordHash = _hashProvider.HashString("3228",adminSalt), // fX7nZzbZlODInUuDmW3RYg==
                     PasswordSalt = adminSalt
                 };
 

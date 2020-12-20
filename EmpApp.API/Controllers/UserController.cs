@@ -27,7 +27,7 @@ namespace CyberAge.API.Controllers
         /// </summary>
         /// <param name="registrationModel"></param>
         /// <returns></returns>
-        [HttpGet]
+        [HttpPost]
         [Route("Registration")]
         public async Task Registration([FromQuery]RegistrationModel registrationModel)
         {
@@ -39,7 +39,7 @@ namespace CyberAge.API.Controllers
         /// </summary>
         /// <param name="authorizationModel"></param>
         /// <returns></returns>
-        [HttpPost]
+        [HttpGet]
         [AllowAnonymous]
         [Route("Authorize")]
         [ProducesResponseType(typeof(Token), 200)]
