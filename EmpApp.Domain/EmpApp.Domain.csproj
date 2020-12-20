@@ -16,8 +16,6 @@
 
   <ItemGroup>
     <Folder Include="Services\Employees" />
-    <Folder Include="Services\prog\" />
-    <Folder Include="Services\sobitie\" />
   </ItemGroup>
 
 </Project>

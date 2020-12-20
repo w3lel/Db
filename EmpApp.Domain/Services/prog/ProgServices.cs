@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CyberAge.Entities
+namespace CyberAge.Domain.Services.prog
 {
-    class Sobitie
+    class ProgServices
     {
     }
 }
