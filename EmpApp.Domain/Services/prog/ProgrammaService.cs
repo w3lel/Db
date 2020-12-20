@@ -45,9 +45,9 @@ namespace CyberAge.Domain.Services.prog
             editableProgramma.Id = programma.Id;
             editableProgramma.TimeStart = programma.TimeStart;
             editableProgramma.TimeFinish = programma.TimeFinish;
-          //  editableEmployee.HoursNumber = employee.HoursNumber;
-           // editableEmployee.Tasks = employee.Tasks;
-           // editableEmployee.Role = employee.Role;
+          //editableEmployee.HoursNumber = employee.HoursNumber;
+           //editableEmployee.Tasks = employee.Tasks;
+           //editableEmployee.Role = employee.Role;
             _dbContext.SaveChanges();
         }
     }

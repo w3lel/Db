@@ -27,7 +27,7 @@ namespace CyberAge.API.Controllers
         /// <summary>
         /// </summary>
         [HttpGet]
-        [Route("/.")]
+        [Route("/")]
         public async Task<Team> GetTeam([FromQuery] Guid id)
         {
             return _teamService.GetTeam(id);
