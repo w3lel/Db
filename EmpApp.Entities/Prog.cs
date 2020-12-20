@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace CyberAge.Entities
 {
-    class Prog
+   public class Programma
     {
         public Guid Id { get; set; }
 

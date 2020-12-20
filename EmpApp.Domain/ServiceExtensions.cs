@@ -1,6 +1,8 @@
 ﻿
 using CyberAge.Domain.Services.Companies;
 using CyberAge.Domain.Services.Employees;
+using CyberAge.Domain.Services.prog;
+using CyberAge.Domain.Services.SisterCompany;
 using CyberAge.Domain.Services.Tasks;
 using CyberAge.Domain.Services.Users;
 using CyberAge.Domain.Services.Users.Abstractions;
@@ -24,6 +26,8 @@ namespace CyberAge.Domain
             services.AddScoped<UsersService>();
             services.AddScoped<EmployeeService>();
             services.AddScoped<TeamService>();
+            services.AddScoped<SisterService>();
+            services.AddScoped<ProgrammaService>();
             services.AddScoped<TicketService>();
             services.AddScoped<CompanyService>();
 

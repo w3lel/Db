@@ -12,7 +12,7 @@ namespace CyberAge.API.Controllers
     /// Контроллер компаний
     /// </summary>
     //[Authorize("Bearer")]
-    [Route("Em")]
+    [Route("Employee")]
     [AllowAnonymous]
     public class EmployeeController : Controller
     {
