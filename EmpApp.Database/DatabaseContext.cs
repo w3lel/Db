@@ -23,16 +23,18 @@ namespace CyberAge.Database
         /// </summary>
         public virtual DbSet<Event> Employees { get; set; }
 
-        /// <summary>
-        /// Комманды
-        /// </summary>
-        public virtual DbSet<Programma> Programmas { get; set; }
+        
 
         /// <summary>
         /// Компании
         /// </summary>
         public virtual DbSet<Company> Companies { get; set; }
-        
+
+        /// <summary>
+        /// Компании
+        /// </summary>
+        public virtual DbSet<Proekt> Proekts { get; set; }
+
         /// <summary>
         /// Филиалы
         /// </summary>
@@ -49,5 +51,7 @@ namespace CyberAge.Database
         /// Задачи
         /// </summary>
         public virtual DbSet<Ticket> Tickets { get; set; }
+
+        
     }
 }
